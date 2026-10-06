@@ -1,0 +1,8 @@
+# Результаты компиляции
+*.class
+/out/
+/bin/
+/target/
+
+# Настройки VS Code
+/.vscode/
