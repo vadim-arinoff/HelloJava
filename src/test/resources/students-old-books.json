@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Сергей",
+    "books": [
+      {
+        "title": "Book One",
+        "author": "Author One",
+        "publicationYear": 1990,
+        "pageCount": 100
+      },
+      {
+        "title": "Book Two",
+        "author": "Author Two",
+        "publicationYear": 1995,
+        "pageCount": 200
+      },
+      {
+        "title": "Book Three",
+        "author": "Author Three",
+        "publicationYear": 1998,
+        "pageCount": 300
+      },
+      {
+        "title": "Book Four",
+        "author": "Author Four",
+        "publicationYear": 1999,
+        "pageCount": 400
+      },
+      {
+        "title": "Book Five",
+        "author": "Author Five",
+        "publicationYear": 2000,
+        "pageCount": 500
+      }
+    ]
+  }
+]
