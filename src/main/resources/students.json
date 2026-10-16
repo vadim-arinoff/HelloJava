@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Анна",
+    "books": [
+      {
+        "title": "Test Driven Development",
+        "author": "Kent Beck",
+        "publicationYear": 2002,
+        "pageCount": 240
+      },
+      {
+        "title": "Clean Code",
+        "author": "Robert Martin",
+        "publicationYear": 2008,
+        "pageCount": 464
+      },
+      {
+        "title": "Java Concurrency in Practice",
+        "author": "Brian Goetz",
+        "publicationYear": 2006,
+        "pageCount": 432
+      },
+      {
+        "title": "Head First Java",
+        "author": "Kathy Sierra",
+        "publicationYear": 2022,
+        "pageCount": 720
+      },
+      {
+        "title": "Design Patterns",
+        "author": "Erich Gamma",
+        "publicationYear": 1994,
+        "pageCount": 395
+      }
+    ]
+  },
+  {
+    "name": "Борис",
+    "books": [
+      {
+        "title": "Java Puzzlers",
+        "author": "Joshua Bloch",
+        "publicationYear": 2005,
+        "pageCount": 282
+      },
+      {
+        "title": "Clean Code",
+        "author": "Robert Martin",
+        "publicationYear": 2008,
+        "pageCount": 464
+      },
+      {
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt",
+        "publicationYear": 1999,
+        "pageCount": 352
+      },
+      {
+        "title": "Spring in Action",
+        "author": "Craig Walls",
+        "publicationYear": 2022,
+        "pageCount": 520
+      },
+      {
+        "title": "Refactoring",
+        "author": "Martin Fowler",
+        "publicationYear": 2018,
+        "pageCount": 448
+      }
+    ]
+  },
+  {
+    "name": "Елена",
+    "books": [
+      {
+        "title": "Effective Java",
+        "author": "Joshua Bloch",
+        "publicationYear": 2018,
+        "pageCount": 416
+      },
+      {
+        "title": "Algorithms",
+        "author": "Robert Sedgewick",
+        "publicationYear": 2011,
+        "pageCount": 976
+      },
+      {
+        "title": "Thinking in Java",
+        "author": "Bruce Eckel",
+        "publicationYear": 2006,
+        "pageCount": 1150
+      },
+      {
+        "title": "Domain-Driven Design",
+        "author": "Eric Evans",
+        "publicationYear": 2003,
+        "pageCount": 560
+      },
+      {
+        "title": "Modern Java in Action",
+        "author": "Raoul-Gabriel Urma",
+        "publicationYear": 2018,
+        "pageCount": 592
+      }
+    ]
+  }
+]

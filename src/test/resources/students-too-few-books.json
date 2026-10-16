@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Иван",
+    "books": [
+      {
+        "title": "Clean Code",
+        "author": "Robert Martin",
+        "publicationYear": 2008,
+        "pageCount": 464
+      }
+    ]
+  }
+]
